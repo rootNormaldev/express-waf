@@ -1,0 +1,26 @@
+{
+  "scripts": {
+    "dev": "nodemon index.js --watch"
+  },
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cluster": "^0.7.7",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.1",
+    "express-http-proxy": "^1.6.3",
+    "gradient-string": "^2.0.2",
+    "helmet": "^6.0.0",
+    "http-proxy": "^1.18.1",
+    "http-version": "^0.1.0",
+    "https": "^1.0.0",
+    "ip": "^1.1.8",
+    "isbot": "^3.6.0",
+    "memory-cache": "^0.2.0",
+    "mobile-detect": "^1.4.5",
+    "puppeteer": "^18.0.5",
+    "redis": "^4.3.1",
+    "simpl.db": "^2.12.1",
+    "spdy": "^4.0.2"
+  }
+}
